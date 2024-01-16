@@ -1,0 +1,34 @@
+{
+    "en": [
+        "news", "politics", "business", "economy", "sports", "entertainment", 
+        "culture", "technology", "science", "health", "education", "world", 
+        "national", "local", "weather", "opinion", "editorial", "lifestyle", 
+        "travel", "food", "art", "fashion", "real estate", "automotive", 
+        "environment", "law", "crime", "investigative", "healthcare", "religion", 
+        "obituaries"
+    ],
+    "es": [
+        "noticias", "politica", "negocios", "economia", "deportes", "entretenimiento", 
+        "cultura", "tecnologia", "ciencia", "salud", "educacion", "mundo", 
+        "nacional", "local", "clima", "opinion", "editorial", "estilo de vida", 
+        "viaje", "comida", "arte", "moda", "bienes raices", "automovilismo", 
+        "medio ambiente", "ley", "crimen", "investigacion", "atencion medica", "religion", 
+        "obituarios"
+    ],
+    "de": [
+        "nachrichten", "politik", "geschaeft", "wirtschaft", "sport", "unterhaltung", 
+        "kultur", "technologie", "wissenschaft", "gesundheit", "bildung", "welt", 
+        "national", "lokal", "wetter", "meinung", "leitartikel", "lebensstil", 
+        "reisen", "essen", "kunst", "mode", "immobilien", "automobil", 
+        "umwelt", "recht", "kriminalitaet", "investigativ", "gesundheitspflege", "religion", 
+        "todesanzeigen"
+    ],
+    "fr": [
+        "actualites", "politique", "affaires", "economie", "sports", "divertissement", 
+        "culture", "technologie", "science", "sante", "education", "monde", 
+        "national", "local", "meteo", "opinion", "editorial", "style de vie", 
+        "voyage", "nourriture", "art", "mode", "immobilier", "automobile", 
+        "environnement", "droit", "crime", "investigatif", "soins de sante", "religion", 
+        "necrologies"
+    ]
+}

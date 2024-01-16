@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "ar_com_pelucadorada_test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

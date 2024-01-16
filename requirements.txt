@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+tinydb
+urllib3
+nltk
+numpy
+scikit-learn
+langdetect
+pytest
+langdetect
+tqdm
+openai==0.10.2
+
