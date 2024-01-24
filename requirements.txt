@@ -10,4 +10,6 @@ pytest
 langdetect
 tqdm
 openai==0.10.2
-
+flask
+playwright
+chatgpt-api

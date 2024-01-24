@@ -47,7 +47,7 @@ class GPTClient:
         return self._send_to_gpt(prompt)
 
     def _create_gpt_prompt(self, news_array):
-        prompt = "Combinar .\n\n"
+        prompt = "Combinar las siguientes noticias semanticamente similares en una sola noticia y ademas ponerle un titulo representativo de la misma: \n\n"
         for i, news in enumerate(news_array, 1):
             prompt += f"Article {i}:\nTitle: {news.title}\nBody: {news.body}\n\n"
         prompt += "Rewritten News Article:"
